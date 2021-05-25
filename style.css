@@ -6,3 +6,6 @@ h1, h3 {
 	display: flex;
 	justify-content: space-between;
 }
+.contexte {
+	flex: 1;
+}
