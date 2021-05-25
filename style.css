@@ -1,6 +1,8 @@
 header nav.navigation ul li.bouton {
 	display: inline-block;
 	list-style: none;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 h1 {
 	text-align: center;
