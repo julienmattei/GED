@@ -9,6 +9,7 @@ h1 {
 }
 #conteneur {
 	display: flex;
+	justify-content: space-between;
 }
 
 .article {
