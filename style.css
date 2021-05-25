@@ -11,7 +11,9 @@ h1 {
 	display: flex;
 	justify-content: space-between;
 }
-
+.menu {
+	flex: 1;
+}
 .article {
 	flex: 2;
 }
