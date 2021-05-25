@@ -9,3 +9,6 @@ h1 {
 .contexte {
 	flex: 2;
 }
+.menu {
+	flex: 1;
+}
