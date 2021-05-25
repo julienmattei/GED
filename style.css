@@ -1,3 +1,7 @@
+nav.navigation ul li.bouton {
+	display: inline-block;
+	list-style: none;
+}
 h1 {
 	text-align: center;
 	font-family: arial;
@@ -11,8 +15,4 @@ h1 {
 }
 .menu {
 	flex: 1;
-}
-nav.navigation ul li.bouton {
-	display: inline-block;
-	list-style: none;
 }
