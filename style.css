@@ -17,3 +17,6 @@ h1 {
 .article {
 	flex: 2;
 }
+.infos {
+	flex: 1;
+}
