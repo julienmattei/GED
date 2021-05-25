@@ -5,7 +5,6 @@ h1 {
 #conteneur {
 	display: flex;
 	justify-content: center;
-	align-items: center;
 }
 .menu {
 	margin-top: 15px;
