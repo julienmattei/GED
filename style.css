@@ -1,4 +1,4 @@
-header nav.navigation ul li {
+header nav.navigation ul li.bouton {
 	display: inline-block;
 	list-style: none;
 }
