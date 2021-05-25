@@ -10,6 +10,6 @@ h1 {
 .menu {
 	margin-top: 15px;
 }
-.contexte {
+.element:nth-child(2) {
 	flex: 1;
 }
