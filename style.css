@@ -12,9 +12,6 @@ h1 {
 	justify-content: space-between;
 }
 
-.article {
-	flex: 1;
-}
 .menu {
-	flex: 1;
+	flex: 2;
 }
