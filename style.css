@@ -4,11 +4,5 @@ h1 {
 }
 #conteneur {
 	display: flex;
-	justify-content: center;
-}
-.menu {
-	margin-right: 50px;
-}
-.context {
-	margin-left: 100px;
+	justify-content: space-around;
 }
