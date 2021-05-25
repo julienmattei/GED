@@ -12,3 +12,7 @@ h1 {
 .menu {
 	flex: 1;
 }
+nav.navigation ul li.bouton {
+	display: inline-block;
+	list-style: none;
+}
