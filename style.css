@@ -42,13 +42,3 @@ a {
 .sidebar {
 	width: 15%;
 }
-.article div{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	align-items: center;
-}
-.article div p {
-	display: flex;
-	flex-direction: column;
-}
