@@ -14,3 +14,13 @@ a {
 	text-decoration: none;
 	color: white;
 }
+.main {
+	height: 80%;
+}
+.footer {
+	display: flex;
+	justify-content: space-between;
+	height: 100px;
+	background-color: #92E9D1;
+	align-items: center;
+}
