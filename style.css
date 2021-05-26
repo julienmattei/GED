@@ -8,6 +8,7 @@ body {
 }
 a {
 	text-decoration: none;
+	color: black;
 }
 .header {
 	display: flex;
@@ -40,7 +41,4 @@ a {
 }
 .sidebar {
 	width: 10%;
-}
-.article p h3 a {
-	color: red;
 }
