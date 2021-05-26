@@ -44,4 +44,5 @@ a {
 }
 .article div{
 	display: flex;
+	flex-wrap: wrap;
 }
