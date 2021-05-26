@@ -39,7 +39,7 @@ body {
 .sidebar {
 	width: 10%;
 }
-.article a {
+.article p a {
 	text-orientation: none;
 	color: black;
 }
