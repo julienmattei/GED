@@ -44,11 +44,5 @@ a {
 }
 .article {
 	width: 85%;
-}
-.article div{
 	display: flex;
-	flex-wrap: wrap;
-	width: 100px;
-	flex-direction: row;
-	align-items: center;
 }
