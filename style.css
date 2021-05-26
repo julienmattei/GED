@@ -51,4 +51,6 @@ a {
 }
 .article div p {
 	width: 100px;
+	display: flex;
+	flex-direction: column;
 }
