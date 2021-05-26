@@ -3,6 +3,7 @@
 	justify-content: space-between;
 	height: 100px;
 	background-color: #92E9D1;
+	align-items: center;
 }
 .header-nav {
 	justify-content: space-around;
