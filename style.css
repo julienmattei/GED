@@ -19,13 +19,13 @@ a {
 	color: white;
 }
 .main {
+	display: flex;
+	flex: 1 0;
 	height: 80%;
+
 }
 .footer {
-	display: flex;
-	justify-content: space-between;
 	height: 100px;
 	background-color: #9BA9A5;
-	align-items: center;
-	order: 3;
+	flex: none;
 }
