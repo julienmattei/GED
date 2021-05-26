@@ -45,13 +45,4 @@ a {
 .article {
 	width: 85%;
 }
-.article div {
-	display:flex; 
-	flex-wrap: wrap;
-}
-div p {
-	width: 200px;
-	height: 300px;
-	display: flex;
-	flex-direction: column;
-}
+
