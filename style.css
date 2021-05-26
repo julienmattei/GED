@@ -42,3 +42,6 @@ a {
 .sidebar {
 	width: 15%;
 }
+p {
+	display: flex;
+}
