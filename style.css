@@ -31,7 +31,7 @@ a {
 }
 .main {
 	display: flex;
-	flex: 1 0;
+	flex: 1 1;
 }
 .footer {
 	height: 100px;
@@ -45,4 +45,7 @@ a {
 .article div{
 	display: flex;
 	flex-wrap: wrap;
+}
+.article div p {
+	width: 300px;
 }
