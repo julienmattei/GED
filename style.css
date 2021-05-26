@@ -36,3 +36,7 @@ a {
 	flex: none;
 	margin-top: auto;
 }
+.sidebar {
+	width: 20%;
+	background-color: #FF00C1;
+}
