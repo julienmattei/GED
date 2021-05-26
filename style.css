@@ -40,6 +40,6 @@ body {
 	width: 10%;
 }
 .article p a {
-	text-orientation: none;
+	text-decoration: none;
 	color: black;
 }
