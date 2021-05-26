@@ -42,3 +42,7 @@ a {
 .sidebar {
 	width: 15%;
 }
+.article div{
+	display: flex;
+	flex-wrap: wrap;
+}
