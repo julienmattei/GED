@@ -10,6 +10,10 @@
 	justify-content: space-around;
 	width: 80%;
 }
+.header-titre {
+	display: flex;
+	flex-wrap: nowrap;
+}
 a {
 	text-decoration: none;
 	color: white;
