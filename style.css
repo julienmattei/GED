@@ -41,6 +41,6 @@ a {
 .sidebar {
 	width: 10%;
 }
-.article p a {
+.article p h3 a {
 	color: red;
 }
