@@ -44,5 +44,7 @@ a {
 }
 .article {
 	width: 85%;
-	display: flex;
+}
+.article div {
+	display:flex; 
 }
