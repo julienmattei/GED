@@ -21,8 +21,6 @@ a {
 .main {
 	display: flex;
 	flex: 1 0;
-	height: 80%;
-
 }
 .footer {
 	height: 100px;
