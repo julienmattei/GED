@@ -6,5 +6,6 @@
 	align-items: center;
 }
 .header-nav {
+	display: flex;
 	justify-content: space-around;
 }
