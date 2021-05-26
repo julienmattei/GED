@@ -6,6 +6,9 @@ body {
 	display: flex;
 	flex-direction: column;
 }
+a {
+	text-decoration: none;
+}
 .header {
 	display: flex;
 	justify-content: space-between;
@@ -23,7 +26,6 @@ body {
 	flex-wrap: nowrap;
 }
 .header a {
-	text-decoration: none;
 	color: white;
 }
 .main {
@@ -40,6 +42,5 @@ body {
 	width: 10%;
 }
 .article p a {
-	text-decoration: none;
 	color: black;
 }
