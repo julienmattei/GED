@@ -39,6 +39,7 @@ body {
 .sidebar {
 	width: 10%;
 }
-.main a {
+.article a {
 	text-orientation: none;
+	color: black;
 }
