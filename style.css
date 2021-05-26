@@ -2,7 +2,7 @@
 	display: flex;
 	justify-content: space-between;
 	height: 100px;
-	background-color: #92E9D1;
+	background-color: #9BA9A5;
 	align-items: center;
 }
 .header-nav {
@@ -21,7 +21,7 @@ a {
 	display: flex;
 	justify-content: space-between;
 	height: 100px;
-	background-color: #92E9D1;
+	background-color: #9BA9A5;
 	align-items: center;
 	order: 3;
 }
