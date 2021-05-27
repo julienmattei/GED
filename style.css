@@ -1,48 +1,51 @@
 html, body {
-	height: 100%;
-	margin: 0;
-}
-body {
-	display: flex;
-	flex-direction: column;
+	height :100%;
 }
 a {
 	text-decoration: none;
-	color: black;
 }
-.header {
-	display: flex;
-	justify-content: space-between;
-	height: 100px;
-	background-color: #9BA9A5;
-	align-items: center;
+header {
+	height: 15%;
+	background-color: #EEE;
 }
-.header-nav {
-	display: flex;
-	justify-content: space-around;
-	width: 80%;
-}
-.header-titre {
-	display: flex;
-	flex-wrap: nowrap;
-}
-.header a {
-	color: white;
-}
-.main {
-	display: flex;
-	flex: 1 0;
-}
-.footer {
-	height: 100px;
-	background-color: #9BA9A5;
+footer {
+	height: 15%;
+	background-color: #EEE;
 	flex: none;
 	margin-top: auto;
 }
+.main {
+	display: flex;
+	height: 100%;
+}
 .sidebar {
-	width: 15%;
+	display:flex;
+	width: 20%;
+	border-right: 2 solid;
+	flex-direction: column;
+	
 }
-.article {
-	width: 85%;
+.page {
+	margin-left: 10px;
+	display:flex;
+	width: 80%;
+	flex-direction: column;
 }
-
+.sidebar_header h1 {
+	display: flex;
+	align-items: center;
+	margin-left: 5px;
+}
+.page_header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.page_header h2 {
+	margin-left: 5px;
+}
+.header_nav {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
