@@ -14,6 +14,9 @@ footer {
 	flex: none;
 	margin-top: auto;
 }
+p {
+	text-align: justify;
+}
 .main {
 	display: flex;
 	height: 100%;
