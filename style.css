@@ -5,11 +5,11 @@ a {
 	text-decoration: none;
 }
 header {
-	height: 10%;
+	height: 15%;
 	background-color: #EEE;
 }
 footer {
-	height: 10%;
+	height: 15%;
 	background-color: #EEE;
 	flex: none;
 	margin-top: auto;
