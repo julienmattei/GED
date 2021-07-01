@@ -56,4 +56,5 @@ p {
 }
 .cadre_1 p {
 	display: flex;
+	flex-direction: column;
 }
