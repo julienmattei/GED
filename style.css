@@ -54,7 +54,7 @@ p {
 	display: flex;
 	justify-content: space-around;
 }
-.cadre_1 p {
+.cadre_1 {
 	display: flex;
 	flex-direction: column;
 }
